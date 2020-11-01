@@ -1,0 +1,54 @@
+
+<h1>{{ 'info.about' | translate }}</h1>
+<div class="button language container">
+        <button mat-button color="warn" (click)="setLanguage('en')">{{ 'languages.english' | translate }} </button>
+        <button mat-button color="primary"(click)="setLanguage('ru')">{{ 'languages.russian' | translate }} </button>
+<h2>{{'header.text' | translate}}</h2>
+<button mat-button color (click)="addNote()">{{'button.add' | translate}}</button>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <td>{{'table.id'| translate }}</td>
+            <td>{{'table.text'| translate }}</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let note of notes">
+            <ng-template [ngTemplateOutlet]="loadTemplate(note)" 
+                         [ngTemplateOutletContext]="{ $implicit: note}">
+            </ng-template>
+        </tr>
+    </tbody>
+</table>
+<div> {{statusMessage}}</div>
+    
+    
+<!--Template for reading-->
+<ng-template #readOnlyTemplate let-Notes>
+    <td> {{Notes.id}}</td>
+    <td> {{Notes.text}}</td>
+    <td>
+        <button mat-button color="primary" (click)="editNote(notes)">{{'button.change' | translate}}</button>
+    </td>
+    <td>
+        <button mat-button color="warn" (click)="deleteNote(note, note.id)">{{'button.delete' | translate}}</button>
+    </td>
+</ng-template>
+
+<!--Tempalte for editing-->>
+<ng-template #editTemplate>
+    <td>
+        <input type="number" [(ngModel)]="editedNote.id"  class="form-control" name = "id"/>
+    </td>
+    <td>
+        <input type="text" [(ngModel)]="editedNote.text" class="form-control" name = "Text" />
+    </td>
+    <td>
+        <button mat-button color (click)="saveNote()">{{'button.save' | translate}} </button>
+    </td>
+    <td>
+        <button mat-button color (click)="cancel()">{{'button.cancel' | translate}} </button>
+    </td>
+</ng-template>

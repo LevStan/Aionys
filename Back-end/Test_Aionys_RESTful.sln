@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Aionys_RESTful", "Test_Aionys_RESTful\Test_Aionys_RESTful.csproj", "{EEC6BF26-B2B0-47A3-88FE-F3047154C21D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC6BF26-B2B0-47A3-88FE-F3047154C21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC6BF26-B2B0-47A3-88FE-F3047154C21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC6BF26-B2B0-47A3-88FE-F3047154C21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC6BF26-B2B0-47A3-88FE-F3047154C21D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDF0A9F7-4815-4734-95FD-2C434EE0C20D}
+	EndGlobalSection
+EndGlobal

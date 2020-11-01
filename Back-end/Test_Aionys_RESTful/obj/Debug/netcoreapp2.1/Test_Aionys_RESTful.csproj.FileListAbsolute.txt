@@ -1,0 +1,14 @@
+C:\Users\Лев\Documents\Visual Studio 2017\Projects\Test_Aionys_RESTful\Test_Aionys_RESTful\bin\Debug\netcoreapp2.1\Test_Aionys_RESTful.deps.json
+C:\Users\Лев\Documents\Visual Studio 2017\Projects\Test_Aionys_RESTful\Test_Aionys_RESTful\bin\Debug\netcoreapp2.1\Test_Aionys_RESTful.runtimeconfig.json
+C:\Users\Лев\Documents\Visual Studio 2017\Projects\Test_Aionys_RESTful\Test_Aionys_RESTful\bin\Debug\netcoreapp2.1\Test_Aionys_RESTful.runtimeconfig.dev.json
+C:\Users\Лев\Documents\Visual Studio 2017\Projects\Test_Aionys_RESTful\Test_Aionys_RESTful\bin\Debug\netcoreapp2.1\Test_Aionys_RESTful.dll
+C:\Users\Лев\Documents\Visual Studio 2017\Projects\Test_Aionys_RESTful\Test_Aionys_RESTful\bin\Debug\netcoreapp2.1\Test_Aionys_RESTful.pdb
+C:\Users\Лев\Documents\Visual Studio 2017\Projects\Test_Aionys_RESTful\Test_Aionys_RESTful\obj\Debug\netcoreapp2.1\Test_Aionys_RESTful.csprojAssemblyReference.cache
+C:\Users\Лев\Documents\Visual Studio 2017\Projects\Test_Aionys_RESTful\Test_Aionys_RESTful\obj\Debug\netcoreapp2.1\Test_Aionys_RESTful.csproj.CoreCompileInputs.cache
+C:\Users\Лев\Documents\Visual Studio 2017\Projects\Test_Aionys_RESTful\Test_Aionys_RESTful\obj\Debug\netcoreapp2.1\Test_Aionys_RESTful.RazorAssemblyInfo.cache
+C:\Users\Лев\Documents\Visual Studio 2017\Projects\Test_Aionys_RESTful\Test_Aionys_RESTful\obj\Debug\netcoreapp2.1\Test_Aionys_RESTful.RazorAssemblyInfo.cs
+C:\Users\Лев\Documents\Visual Studio 2017\Projects\Test_Aionys_RESTful\Test_Aionys_RESTful\obj\Debug\netcoreapp2.1\Test_Aionys_RESTful.AssemblyInfoInputs.cache
+C:\Users\Лев\Documents\Visual Studio 2017\Projects\Test_Aionys_RESTful\Test_Aionys_RESTful\obj\Debug\netcoreapp2.1\Test_Aionys_RESTful.AssemblyInfo.cs
+C:\Users\Лев\Documents\Visual Studio 2017\Projects\Test_Aionys_RESTful\Test_Aionys_RESTful\obj\Debug\netcoreapp2.1\Test_Aionys_RESTful.RazorTargetAssemblyInfo.cache
+C:\Users\Лев\Documents\Visual Studio 2017\Projects\Test_Aionys_RESTful\Test_Aionys_RESTful\obj\Debug\netcoreapp2.1\Test_Aionys_RESTful.dll
+C:\Users\Лев\Documents\Visual Studio 2017\Projects\Test_Aionys_RESTful\Test_Aionys_RESTful\obj\Debug\netcoreapp2.1\Test_Aionys_RESTful.pdb

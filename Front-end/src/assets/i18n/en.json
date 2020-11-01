@@ -1,0 +1,27 @@
+{
+    "info": {
+        "about": "Client side app for working with RESTful service"
+    },
+
+    "languages": {
+        "english": "English",
+        "russian": "Russian"
+    },
+
+    "header": {
+        "text": "Notes"
+    },
+
+    "button": {
+        "add" : "Add new note",
+        "change" : "Change note",
+        "delete" : "Delete note",
+        "save" : "Save",
+        "cancel" : "Cancel"
+    },
+
+    "table": {
+        "id" : "ID",
+        "text": "Text"
+    }
+}
